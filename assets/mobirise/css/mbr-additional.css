@@ -2855,6 +2855,27 @@ body {
     justify-content: center;
   }
 }
+.cid-rDQXN3zRBi {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 30px;
+}
+.cid-rDQXN3zRBi .image-block {
+  margin: auto;
+}
+.cid-rDQXN3zRBi figcaption {
+  position: relative;
+}
+.cid-rDQXN3zRBi figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rDQXN3zRBi .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rDljuc1atO {
   background: #ffffff;
   padding-top: 0px;
