@@ -1443,11 +1443,10 @@ body {
 }
 .cid-rDRCIZHXHe {
   background: #010000;
-  padding-top: 15px;
-  padding-bottom: 15px;
 }
 .cid-rDRCIZHXHe .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-rDRCIZHXHe .mbr-figure {
   margin: 0 auto;
@@ -3155,11 +3154,10 @@ body {
 }
 .cid-rDRDNzyQXN {
   background: #010000;
-  padding-top: 0px;
-  padding-bottom: 0px;
 }
 .cid-rDRDNzyQXN .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-rDRDNzyQXN .mbr-figure {
   margin: 0 auto;
