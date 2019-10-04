@@ -2970,11 +2970,10 @@ body {
 }
 .cid-rDljuc1atO {
   background: #232323;
-  padding-top: 0px;
-  padding-bottom: 30px;
 }
 .cid-rDljuc1atO .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-rDljuc1atO figcaption {
   position: relative;
