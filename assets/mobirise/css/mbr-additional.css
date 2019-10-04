@@ -2970,10 +2970,11 @@ body {
 }
 .cid-rDljuc1atO {
   background: #232323;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 .cid-rDljuc1atO .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rDljuc1atO figcaption {
   position: relative;
@@ -2987,17 +2988,6 @@ body {
   .cid-rDljuc1atO .image-block {
     width: 100% !important;
   }
-}
-.cid-rDl62CQMh5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #232323;
-}
-.cid-rDl62CQMh5 .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-rDl62CQMh5 H2 {
-  color: #ffffff;
 }
 .cid-rDlkR52lOz {
   padding-top: 60px;
