@@ -710,6 +710,37 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rTEn1CRnyQ {
+  background: #ffffff;
+}
+.cid-rTEn1CRnyQ .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rTEn1CRnyQ figcaption {
+  position: relative;
+}
+.cid-rTEn1CRnyQ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rTEn1CRnyQ .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rTKNf1RHrz {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #0f7699;
+}
+.cid-rTKNf1RHrz .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rTKNf1RHrz H2 {
+  color: #232323;
+}
 .cid-rTKIHdXXUx {
   padding-top: 60px;
   padding-bottom: 0px;
@@ -762,29 +793,9 @@ section.lazy-placeholder:after {
 .cid-rTKIHdXXUx H2 {
   color: #0f7699;
 }
-.cid-rTEn1CRnyQ {
-  background: #ffffff;
-}
-.cid-rTEn1CRnyQ .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rTEn1CRnyQ figcaption {
-  position: relative;
-}
-.cid-rTEn1CRnyQ figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rTEn1CRnyQ .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rTEg221aUn {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rTEg221aUn .mbr-section-subtitle {
@@ -845,7 +856,7 @@ section.lazy-placeholder:after {
   color: #767676;
 }
 .cid-rTEgooiTWW {
-  background: #073b4c;
+  background: #0f7699;
   padding-top: 30px;
   padding-bottom: 30px;
 }
@@ -867,7 +878,7 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rTKuc6JbWY {
-  background: #010000;
+  background: #0f7699;
   padding-top: 30px;
   padding-bottom: 30px;
 }
@@ -900,7 +911,7 @@ section.lazy-placeholder:after {
 .cid-rxskpshLuy {
   padding-top: 45px;
   padding-bottom: 60px;
-  background-color: #010000;
+  background-color: #073b4c;
 }
 .cid-rxskpshLuy .media-container-row {
   flex-direction: row-reverse;
@@ -927,7 +938,7 @@ section.lazy-placeholder:after {
 .cid-rDQUTqHdhg {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #010000;
+  background-color: #073b4c;
 }
 @media (max-width: 767px) {
   .cid-rDQUTqHdhg .content {
