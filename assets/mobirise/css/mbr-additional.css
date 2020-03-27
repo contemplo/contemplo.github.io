@@ -870,6 +870,31 @@ section.lazy-placeholder:after {
   color: #ffffff;
   text-align: left;
 }
+.cid-rUtcC0vz3d {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rUtcC0vz3d .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
+.cid-rUtcC0vz3d H2 {
+  color: #010000;
+}
+.cid-rUtcCxFGUe {
+  background: #cdbeda;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-rUtcCxFGUe .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rUtcCxFGUe .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rUn1uacz3u {
   padding-top: 75px;
   padding-bottom: 60px;
