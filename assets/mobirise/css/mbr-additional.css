@@ -5385,6 +5385,34 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s04vMKuo6Q {
+  padding-top: 75px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-s04vMKuo6Q .mbr-section-subtitle {
+  color: #767676;
+  text-align: center;
+}
+.cid-s04vMKuo6Q H2 {
+  color: #010000;
+}
+.cid-s04vMKuo6Q .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-s04vKu0L1J {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.cid-s04vKu0L1J .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s04vKu0L1J .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s04a1UXTUu {
   background-image: url("../../../assets/images/leon6-1200x800.jpg");
 }
