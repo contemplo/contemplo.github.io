@@ -4750,6 +4750,27 @@ section.lazy-placeholder:after {
 .cid-s0IZlnjBba .mbr-section-subtitle {
   color: #767676;
 }
+.cid-s0JjOllowQ {
+  background: #efefef;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-s0JjOllowQ .image-block {
+  margin: auto;
+}
+.cid-s0JjOllowQ figcaption {
+  position: relative;
+}
+.cid-s0JjOllowQ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s0JjOllowQ .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s0IZkAvtfZ {
   padding-top: 30px;
   padding-bottom: 90px;
