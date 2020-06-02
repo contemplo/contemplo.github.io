@@ -3199,35 +3199,16 @@ section.lazy-placeholder:after {
 .cid-s0KiE6XgVy .mbr-section-btn {
   color: #767676;
 }
-.cid-s0KiE87XSj {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #000000;
-}
-.cid-s0KiE87XSj H1 {
-  color: #ffffff;
-}
-.cid-s0KiE87XSj SPAN {
-  color: #cccccc;
-}
-.cid-s0KiE8Lxue {
+.cid-s0KL4x5dpK {
   background: #000000;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
-.cid-s0KiE8Lxue .image-block {
+.cid-s0KL4x5dpK .video-block {
   margin: auto;
 }
-.cid-s0KiE8Lxue figcaption {
-  position: relative;
-}
-.cid-s0KiE8Lxue figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
 @media (max-width: 768px) {
-  .cid-s0KiE8Lxue .image-block {
+  .cid-s0KL4x5dpK .video-block {
     width: 100% !important;
   }
 }
